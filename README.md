@@ -8,8 +8,16 @@ This project was bootstrapped with ⚡️ [Vite](https://vitejs.dev/).
 
 In the project directory, you can run:
 
+Install Dependencies:
+
 ```bash
-npm dev
+npm install
+```
+
+Runs the app in the development mode:
+
+```bash
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -20,5 +28,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 To build the App, run
 
 ```bash
-npm build
+npm run build
 ```
