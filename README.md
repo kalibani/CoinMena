@@ -6,11 +6,14 @@ This project was bootstrapped with ⚡️ [Vite](https://vitejs.dev/).
 
 ### Development
 
-Just run and visit http://localhost:3000
+In the project directory, you can run:
 
 ```bash
 npm dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 
 ### Build
 
